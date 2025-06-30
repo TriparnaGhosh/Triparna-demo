@@ -1,2 +1,2 @@
 # Triparna-demo
-first prog
+this is my first repository
